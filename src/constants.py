@@ -1,0 +1,8 @@
+TAG = "=== [NHS] === "
+INPUT_MSG = "Please enter IP address:\t"
+START_MSG = "Starting network scan"
+PING_CMD = "ping -c 1 -w 1 -n 1 "
+RES_UP = ": This host is up"
+RES_DOWN = ": This host is down"
+APPEND = " >> "
+RESULT_FILE = "./result.txt"
