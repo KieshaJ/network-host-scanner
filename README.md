@@ -14,7 +14,7 @@
 ```bash
 gh repo clone KieshaJ/network-host-scanner
 cd .\network-host-scanner\
-python main.py
+python .\main.py
 ```
 
 ### License
